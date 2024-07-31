@@ -1,0 +1,1271 @@
+{
+    "Colombia": [
+        {
+            "stadium": "Monumental de Palmaseca",
+            "capacity": "52,000",
+            "city": "Cali"
+        },
+        {
+            "stadium": "Roberto Meléndez",
+            "capacity": "50,000",
+            "city": "Barranquilla"
+        },
+        {
+            "stadium": "Nemesio Camacho",
+            "capacity": "47,000",
+            "city": "Bogotá"
+        },
+        {
+            "stadium": "Atanasio Girardot",
+            "capacity": "45,955",
+            "city": "Medellín"
+        },
+        {
+            "stadium": "Palogrande",
+            "capacity": "43,678",
+            "city": "Manizales"
+        },
+        {
+            "stadium": "General Santander",
+            "capacity": "42,901",
+            "city": "Cúcuta"
+        },
+        {
+            "stadium": "Estadio Olimpico Pascual Guerrero",
+            "capacity": "38,000",
+            "city": "Cali"
+        },
+        {
+            "stadium": "Murillo Toro",
+            "capacity": "31,000",
+            "city": "Ibagué"
+        },
+        {
+            "stadium": "Hernán Ramírez Villegas",
+            "capacity": "30,313",
+            "city": "Pereira"
+        },
+        {
+            "stadium": "Centenario de Armenia",
+            "capacity": "29,000",
+            "city": "Armenia"
+        },
+        {
+            "stadium": "Alfonso López",
+            "capacity": "28,500",
+            "city": "Bucaramanga"
+        },
+        {
+            "stadium": "Jaime Moron Leon",
+            "capacity": "25,000",
+            "city": "Cartagena"
+        },
+        {
+            "stadium": "Libertad",
+            "capacity": "25,000",
+            "city": "Pasto"
+        },
+        {
+            "stadium": "Guillermo Plazas Alcid",
+            "capacity": "22,000",
+            "city": "Neiva"
+        },
+        {
+            "stadium": "La Independencia",
+            "capacity": "20,630",
+            "city": "Tunja"
+        },
+        {
+            "stadium": "Romelio Martínez",
+            "capacity": "20,000",
+            "city": "Barranquilla"
+        },
+        {
+            "stadium": "Estadio Sierra Nevada",
+            "capacity": "16,000",
+            "city": "Santa Marta"
+        },
+        {
+            "stadium": "Doce de Octubre",
+            "capacity": "16,000",
+            "city": "Tuluá"
+        },
+        {
+            "stadium": "Manuel Calle Lombana",
+            "capacity": "15,000",
+            "city": "Villavicencio"
+        },
+        {
+            "stadium": "Alberto Grisales",
+            "capacity": "14,000",
+            "city": "Rionegro"
+        },
+        {
+            "stadium": "Estadio Metropolitano Ciudad de Itagüí",
+            "capacity": "12,000",
+            "city": "Itagüí"
+        },
+        {
+            "stadium": "Estadio Jaraguay",
+            "capacity": "12,000",
+            "city": "Montería"
+        },
+        {
+            "stadium": "Polideportivo Sur",
+            "capacity": "12,000",
+            "city": "Envigado"
+        },
+        {
+            "stadium": "Alfonso López Pumarejo",
+            "capacity": "12,000",
+            "city": "Bogotá"
+        },
+        {
+            "stadium": "Estadio Daniel Villa Zapata",
+            "capacity": "10,400",
+            "city": "Barrancabermeja"
+        },
+        {
+            "stadium": "Armando Maestre Pavajeau",
+            "capacity": "9,500",
+            "city": "Valledupar"
+        },
+        {
+            "stadium": "Estadio Francisco Rivera Escobar",
+            "capacity": "9,000",
+            "city": "Palmira"
+        },
+        {
+            "stadium": "Luis Carlos Galán Sarmiento",
+            "capacity": "8,000",
+            "city": "Zipaquira"
+        },
+        {
+            "stadium": "Metropolitano de Techo",
+            "capacity": "7,800",
+            "city": "Bogotá"
+        },
+        {
+            "stadium": "Ciro López",
+            "capacity": "3,500",
+            "city": "Popayán"
+        },
+        {
+            "stadium": "Estadio Villa Concha",
+            "capacity": "3,000",
+            "city": "Piedecuesta"
+        }
+    ],
+    "Comoros": [],
+    "Congo, Democratic Republic of the": [
+        {
+            "stadium": "Stade des Martyrs",
+            "capacity": "80,000",
+            "city": "Kinshasa"
+        },
+        {
+            "stadium": "Municipal de Lubumbashi",
+            "capacity": "35,000",
+            "city": "Lubumbashi"
+        },
+        {
+            "stadium": "Frederic Kibassa Maliba",
+            "capacity": "35,000",
+            "city": "Lubumbashi"
+        },
+        {
+            "stadium": "Stade Tshikisha",
+            "capacity": "8,000",
+            "city": "Mbuji-Mayi"
+        }
+    ],
+    "Cyprus": [
+        {
+            "stadium": "GSP",
+            "capacity": "22,859",
+            "city": "Nicosia"
+        },
+        {
+            "stadium": "Makareio",
+            "capacity": "16,000",
+            "city": "Morphou"
+        },
+        {
+            "stadium": "Tsirion",
+            "capacity": "14,400",
+            "city": "Limassol"
+        },
+        {
+            "stadium": "Tsireio",
+            "capacity": "13,152",
+            "city": "Limassol"
+        },
+        {
+            "stadium": "Pafiako",
+            "capacity": "10,000",
+            "city": "Paphos"
+        },
+        {
+            "stadium": "Antonis Papadopoulos",
+            "capacity": "9,782",
+            "city": "Famagusta"
+        },
+        {
+            "stadium": "AEK Arena – Georgios Karapatakis",
+            "capacity": "7,400",
+            "city": "Larnaca"
+        },
+        {
+            "stadium": "Kyperounda Stadium",
+            "capacity": "6,000",
+            "city": "Pitsilia"
+        },
+        {
+            "stadium": "Tasos Markou",
+            "capacity": "5,800",
+            "city": "Paralimni"
+        },
+        {
+            "stadium": "Ammochostos",
+            "capacity": "5,000",
+            "city": "Famagusta"
+        },
+        {
+            "stadium": "Dasaki Achnas",
+            "capacity": "4,500",
+            "city": "Achna"
+        },
+        {
+            "stadium": "Aradippou Stadium",
+            "capacity": "4,500",
+            "city": "Aradippou"
+        },
+        {
+            "stadium": "Peristerona Stadium",
+            "capacity": "4,000",
+            "city": "Katokopia"
+        },
+        {
+            "stadium": "Peyia Municipal Stadium",
+            "capacity": "3,500",
+            "city": "Peyia"
+        },
+        {
+            "stadium": "EN THOI Stadium",
+            "capacity": "3,500",
+            "city": "Lakatamia"
+        },
+        {
+            "stadium": "Koinotikoo Chlorakas",
+            "capacity": "3,500",
+            "city": "Chlorakas"
+        },
+        {
+            "stadium": "Parekklisias Stadium",
+            "capacity": "3,000",
+            "city": "Parekklisias"
+        },
+        {
+            "stadium": "Grigoris Afxentiou",
+            "capacity": "2,000",
+            "city": "Larnaca"
+        },
+        {
+            "stadium": "Michalonikion",
+            "capacity": "2,000",
+            "city": "Xylofagou"
+        },
+        {
+            "stadium": "Anagennisi Football Ground",
+            "capacity": "2,000",
+            "city": "Dherynia"
+        },
+        {
+            "stadium": "Yeroskopou Stadium",
+            "capacity": "2,000",
+            "city": "Yeroskipou"
+        },
+        {
+            "stadium": "Othellos Athienou Stadium",
+            "capacity": "2,000",
+            "city": "Athienou"
+        },
+        {
+            "stadium": "Keryneia Epistrophi",
+            "capacity": "2,000",
+            "city": "Nicosia"
+        },
+        {
+            "stadium": "Zakaki Municipal Stadium",
+            "capacity": "2,000",
+            "city": "Zakaki"
+        },
+        {
+            "stadium": "Koinotiko Stadio",
+            "capacity": "1,500",
+            "city": "Oroklini"
+        },
+        {
+            "stadium": "Koinotiko Stadio Erimis",
+            "capacity": "1,500",
+            "city": "Erimi"
+        },
+        {
+            "stadium": "Pano Polemidia",
+            "capacity": "1,500",
+            "city": "Pano Polemidia"
+        },
+        {
+            "stadium": "Polis Chrysochous",
+            "capacity": "1,300",
+            "city": "Polis Chrysochous"
+        },
+        {
+            "stadium": "Stelios Chari Stadium",
+            "capacity": "1,000",
+            "city": "Ypsonas"
+        },
+        {
+            "stadium": "Gipedo Olympias Lympion",
+            "capacity": "1,000",
+            "city": "Lympia"
+        },
+        {
+            "stadium": "Chalkanoras Stadium",
+            "capacity": "1,000",
+            "city": "Dali"
+        },
+        {
+            "stadium": "Xylotymbou Municipality Stadium",
+            "capacity": "1,000",
+            "city": "Xylotymbou"
+        },
+        {
+            "stadium": "Liopetri Municipality Stadium",
+            "capacity": "1,000",
+            "city": "Liopetri"
+        },
+        {
+            "stadium": "Oroklini Municipality Stadium",
+            "capacity": "1,000",
+            "city": "Oroklini"
+        },
+        {
+            "stadium": "Theodorio Koinotiko",
+            "capacity": "1,000",
+            "city": "Nisou"
+        },
+        {
+            "stadium": "Sotira Municipal Stadium",
+            "capacity": "500",
+            "city": "Sotira"
+        }
+    ],
+    "Ecuador": [
+        {
+            "stadium": "Monumental Banco Pichincha",
+            "capacity": "59,283",
+            "city": "Guayaquil"
+        },
+        {
+            "stadium": "Estadio Rodrigo Paz Delgado",
+            "capacity": "55,104",
+            "city": "Quito"
+        },
+        {
+            "stadium": "Olimpico Atahualpa",
+            "capacity": "40,948",
+            "city": "Quito"
+        },
+        {
+            "stadium": "Estadio Modelo Alberto Spencer",
+            "capacity": "40,000",
+            "city": "Guayaquil"
+        },
+        {
+            "stadium": "George Capwell",
+            "capacity": "24,019",
+            "city": "Guayaquil"
+        },
+        {
+            "stadium": "Alejandro Serrano Aguilar",
+            "capacity": "22,102",
+            "city": "Cuenca"
+        },
+        {
+            "stadium": "Estadio Bellavista",
+            "capacity": "22,000",
+            "city": "Ambato"
+        },
+        {
+            "stadium": "Jocay",
+            "capacity": "20,000",
+            "city": "Manta"
+        },
+        {
+            "stadium": "Olimpico de Riobamba",
+            "capacity": "20,000",
+            "city": "Riobamba"
+        },
+        {
+            "stadium": "Gonzalo Pozo Ripalda",
+            "capacity": "18,799",
+            "city": "Quito"
+        },
+        {
+            "stadium": "Estadio 9 de Mayo",
+            "capacity": "18,500",
+            "city": "Machala"
+        },
+        {
+            "stadium": "Bellavista",
+            "capacity": "18,000",
+            "city": "Ambato"
+        },
+        {
+            "stadium": "Reales Tamarindos",
+            "capacity": "18,000",
+            "city": "Portoviejo"
+        },
+        {
+            "stadium": "Olímpico de Ibarra",
+            "capacity": "17,260",
+            "city": "Ibarra"
+        },
+        {
+            "stadium": "7 de Octubre",
+            "capacity": "16,000",
+            "city": "Quevedo"
+        },
+        {
+            "stadium": "La Cocha",
+            "capacity": "15,200",
+            "city": "Latacunga"
+        },
+        {
+            "stadium": "Federativo Reina del Cisne",
+            "capacity": "14,935",
+            "city": "Loja"
+        },
+        {
+            "stadium": "Estadio de Independiente del Valle",
+            "capacity": "12,000",
+            "city": "Sangolquí"
+        },
+        {
+            "stadium": "Esatdio la Cocha",
+            "capacity": "12,000",
+            "city": "Latacunga"
+        },
+        {
+            "stadium": "Etho Vega",
+            "capacity": "10,172",
+            "city": "Santo Domingo"
+        },
+        {
+            "stadium": "Estadio Christian Benítez Betancourt",
+            "capacity": "10,150",
+            "city": "Guayaquil"
+        },
+        {
+            "stadium": "Jorge Andrade Cantos",
+            "capacity": "9,000",
+            "city": "Azogues"
+        },
+        {
+            "stadium": "Estadio Ciudad de Pelileo",
+            "capacity": "8,000",
+            "city": "Pelileo"
+        },
+        {
+            "stadium": "Gerardo León Pozo",
+            "capacity": "8,000",
+            "city": "Gualaceo"
+        },
+        {
+            "stadium": "Rumiñahui",
+            "capacity": "6,000",
+            "city": "Sangolquí"
+        },
+        {
+            "stadium": "30 de Septiembre",
+            "capacity": "5,000",
+            "city": "Portoviejo"
+        },
+        {
+            "stadium": "Estadio Camilo Gallegos Domínguez",
+            "capacity": "4,000",
+            "city": "Salinas"
+        },
+        {
+            "stadium": "Los Chonanas",
+            "capacity": "3,000",
+            "city": "Chone"
+        },
+        {
+            "stadium": "Estadio Francisco Reinoso",
+            "capacity": "3,000",
+            "city": "Quito"
+        },
+        {
+            "stadium": "Municipal 14 de Junio",
+            "capacity": "3,000",
+            "city": "Vinces"
+        },
+        {
+            "stadium": "Estadio Samborondón Arena",
+            "capacity": "2,200",
+            "city": "Guayaquil"
+        },
+        {
+            "stadium": "Pablo Sandiford",
+            "capacity": "2,000",
+            "city": "Durán"
+        }
+    ],
+    "United States": [
+        {
+            "stadium": "Bank of America Stadium",
+            "capacity": "75,325",
+            "city": "Charlotte"
+        },
+        {
+            "stadium": "Mercedes-Benz Stadium",
+            "capacity": "71,000",
+            "city": "Atlanta"
+        },
+        {
+            "stadium": "Lumen Field",
+            "capacity": "68,740",
+            "city": "Seattle"
+        },
+        {
+            "stadium": "Soldier Field",
+            "capacity": "61,500",
+            "city": "Chicago"
+        },
+        {
+            "stadium": "TCF Bank Stadium",
+            "capacity": "52,525",
+            "city": "Minnesota"
+        },
+        {
+            "stadium": "Snapdragon Stadium",
+            "capacity": "35,000",
+            "city": "San Diego"
+        },
+        {
+            "stadium": "Yankee Stadium",
+            "capacity": "33,444",
+            "city": "New York"
+        },
+        {
+            "stadium": "Geodis Park",
+            "capacity": "30,000",
+            "city": "Nashville"
+        },
+        {
+            "stadium": "Dignity Health Sports Park",
+            "capacity": "27,000",
+            "city": "Los Angeles"
+        },
+        {
+            "stadium": "West End Stadium",
+            "capacity": "26,000",
+            "city": "Cincinnati"
+        },
+        {
+            "stadium": "Orlando City Stadium",
+            "capacity": "25,500",
+            "city": "Orlando"
+        },
+        {
+            "stadium": "Red Bull Arena",
+            "capacity": "25,189",
+            "city": "New Jersey"
+        },
+        {
+            "stadium": "Children's Mercy Park",
+            "capacity": "25,000",
+            "city": "Kansas City"
+        },
+        {
+            "stadium": "City Stadium",
+            "capacity": "22,600",
+            "city": "Richmond"
+        },
+        {
+            "stadium": "St. Louis City Stadium",
+            "capacity": "22,500",
+            "city": "St. Louis"
+        },
+        {
+            "stadium": "CityPark",
+            "capacity": "22,500",
+            "city": "St. Louis"
+        },
+        {
+            "stadium": "Gillette Stadium",
+            "capacity": "22,385",
+            "city": "Foxborough"
+        },
+        {
+            "stadium": "BBVA Compass Stadium",
+            "capacity": "22,000",
+            "city": "Houston"
+        },
+        {
+            "stadium": "Banc of California Stadium",
+            "capacity": "22,000",
+            "city": "Los Angeles"
+        },
+        {
+            "stadium": "Providence Park",
+            "capacity": "21,144",
+            "city": "Portland"
+        },
+        {
+            "stadium": "American Legion Memorial Stadium",
+            "capacity": "21,000",
+            "city": "Charlotte"
+        },
+        {
+            "stadium": "Finley Stadium",
+            "capacity": "20,668",
+            "city": "Chattanooga"
+        },
+        {
+            "stadium": "Toyota Stadium",
+            "capacity": "20,500",
+            "city": "Frisco"
+        },
+        {
+            "stadium": "Charles C. Hughes Stadium",
+            "capacity": "20,311",
+            "city": "Sacramento"
+        },
+        {
+            "stadium": "Rio Tinto Stadium",
+            "capacity": "20,213",
+            "city": "Salt Lake City"
+        },
+        {
+            "stadium": "Lower.com Field",
+            "capacity": "20,011",
+            "city": "Columbus"
+        },
+        {
+            "stadium": "FIU Stadium",
+            "capacity": "20,000",
+            "city": "Miami"
+        },
+        {
+            "stadium": "SeatGeek Stadium",
+            "capacity": "20,000",
+            "city": "Bridgeview"
+        },
+        {
+            "stadium": "Q2 stadium",
+            "capacity": "20,000",
+            "city": "Austin"
+        }
+    ],
+    "Spain": [
+        {
+            "stadium": "Camp Nou",
+            "capacity": "99,359",
+            "city": "Barcelona"
+        },
+        {
+            "stadium": "Santiago Bernabéu",
+            "capacity": "85,454",
+            "city": "Madrid"
+        },
+        {
+            "stadium": "Wanda Metropolitano",
+            "capacity": "68,000",
+            "city": "Madrid"
+        },
+        {
+            "stadium": "Estadio Benito Villamarín",
+            "capacity": "60,720",
+            "city": "Seville"
+        },
+        {
+            "stadium": "Mestalla",
+            "capacity": "55,000",
+            "city": "Valencia"
+        },
+        {
+            "stadium": "San Mamés",
+            "capacity": "53,332",
+            "city": "Bilbao"
+        },
+        {
+            "stadium": "Ramón Sánchez Pizjuán",
+            "capacity": "45,500",
+            "city": "Seville"
+        },
+        {
+            "stadium": "RCDE Stadium",
+            "capacity": "40,500",
+            "city": "Barcelona"
+        },
+        {
+            "stadium": "Martínez Valero",
+            "capacity": "38,750",
+            "city": "Elche"
+        },
+        {
+            "stadium": "Riazor",
+            "capacity": "34,611",
+            "city": "A Coruña"
+        },
+        {
+            "stadium": "La Romareda",
+            "capacity": "34,596",
+            "city": "Zaragoza"
+        },
+        {
+            "stadium": "Nueva Condomina",
+            "capacity": "33,045",
+            "city": "Murcia"
+        },
+        {
+            "stadium": "Gran Canaria",
+            "capacity": "32,520",
+            "city": "Las Palmas de Gran Canaria"
+        },
+        {
+            "stadium": "Anoeta",
+            "capacity": "32,076",
+            "city": "San Sebastián"
+        },
+        {
+            "stadium": "Balaídos",
+            "capacity": "31,800",
+            "city": "Vigo"
+        },
+        {
+            "stadium": "Carlos Tartiere",
+            "capacity": "30,500",
+            "city": "Oviedo"
+        },
+        {
+            "stadium": "La Rosaleda",
+            "capacity": "30,044",
+            "city": "Málaga"
+        },
+        {
+            "stadium": "El Molinón",
+            "capacity": "30,000",
+            "city": "Gijón"
+        },
+        {
+            "stadium": "José Rico Pérez",
+            "capacity": "29,584",
+            "city": "Alicante"
+        },
+        {
+            "stadium": "Nuevo José Zorrilla",
+            "capacity": "26,512",
+            "city": "Valladolid"
+        },
+        {
+            "stadium": "Ciutat de Valencia",
+            "capacity": "25,354",
+            "city": "Valencia"
+        },
+        {
+            "stadium": "Estadio de la Cerámica",
+            "capacity": "25,000",
+            "city": "Villarreal"
+        },
+        {
+            "stadium": "Heliodoro Rodríguez López",
+            "capacity": "24,000",
+            "city": "Tenerife"
+        },
+        {
+            "stadium": "El Sadar",
+            "capacity": "23,576",
+            "city": "Pamplona"
+        },
+        {
+            "stadium": "Visit Mallorca Estadi",
+            "capacity": "23,142",
+            "city": "Mallorca"
+        },
+        {
+            "stadium": "El Sardinero",
+            "capacity": "22,500",
+            "city": "Santander"
+        },
+        {
+            "stadium": "Estadio del Mediterráneo",
+            "capacity": "22,000",
+            "city": "Almería"
+        },
+        {
+            "stadium": "Nuevo Chapín",
+            "capacity": "22,000",
+            "city": "Jerez"
+        },
+        {
+            "stadium": "Nuevo Arcángel",
+            "capacity": "21,822",
+            "city": "Córdoba"
+        },
+        {
+            "stadium": "Nuevo Colombino",
+            "capacity": "21,670",
+            "city": "Huelva"
+        },
+        {
+            "stadium": "Nuevo Mirandilla",
+            "capacity": "20,742",
+            "city": "Cádiz"
+        },
+        {
+            "stadium": "Mendizorroza",
+            "capacity": "19,900",
+            "city": "Vitoria-Gasteiz"
+        },
+        {
+            "stadium": "Nuevo Los Cármenes",
+            "capacity": "19,336",
+            "city": "Granada"
+        },
+        {
+            "stadium": "Balear",
+            "capacity": "18,000",
+            "city": "Palma de Mallorca"
+        },
+        {
+            "stadium": "Nou Castalia",
+            "capacity": "18,000",
+            "city": "Castellón"
+        },
+        {
+            "stadium": "Helmántico",
+            "capacity": "17,341",
+            "city": "Salamanca"
+        },
+        {
+            "stadium": "Estadio Helmántico",
+            "capacity": "17,341",
+            "city": "Salamanca"
+        },
+        {
+            "stadium": "Carlos Belmonte",
+            "capacity": "17,300",
+            "city": "Albacete"
+        },
+        {
+            "stadium": "Coliseum Alfonso Pérez",
+            "capacity": "16,300",
+            "city": "Madrid"
+        },
+        {
+            "stadium": "La Condomina",
+            "capacity": "16,200",
+            "city": "Motril"
+        },
+        {
+            "stadium": "Nuevo Las Gaunas",
+            "capacity": "16,000",
+            "city": "Logroño"
+        },
+        {
+            "stadium": "Nuevo Vivero",
+            "capacity": "15,200",
+            "city": "Badajoz"
+        },
+        {
+            "stadium": "Cartagonova",
+            "capacity": "15,100",
+            "city": "Cartagena"
+        },
+        {
+            "stadium": "Narcís Sala",
+            "capacity": "15,000",
+            "city": "Barcelona"
+        },
+        {
+            "stadium": "Campo de Fútbol de Vallecas",
+            "capacity": "15,000",
+            "city": "Madrid"
+        }
+    ],
+    "Peru": [
+        {
+            "stadium": "Estadio Monumental",
+            "capacity": "80,093",
+            "city": "Lima"
+        },
+        {
+            "stadium": "Estadio Nacional del Perú",
+            "capacity": "45,000",
+            "city": "Lima"
+        },
+        {
+            "stadium": "Garcilaso de la Vega",
+            "capacity": "42,056",
+            "city": "Cusco"
+        },
+        {
+            "stadium": "Estadio Monumental Virgen de Chapi",
+            "capacity": "40,370",
+            "city": "Arequipa"
+        },
+        {
+            "stadium": "Alejandro Villanueva",
+            "capacity": "35,000",
+            "city": "Lima"
+        },
+        {
+            "stadium": "Estadio Aliardo Soria",
+            "capacity": "25,000",
+            "city": "Pucallpa"
+        },
+        {
+            "stadium": "25 de Noviembre",
+            "capacity": "25,000",
+            "city": "Moquegua"
+        },
+        {
+            "stadium": "Mansiche",
+            "capacity": "25,000",
+            "city": "Trujillo"
+        },
+        {
+            "stadium": "Aliardo Soria Pérez",
+            "capacity": "25,000",
+            "city": "Pucallpa"
+        },
+        {
+            "stadium": "Estadio Miguel Grau",
+            "capacity": "25,000",
+            "city": "Piura"
+        },
+        {
+            "stadium": "Manuel Rivera Sanchez",
+            "capacity": "25,000",
+            "city": "Chimbote"
+        },
+        {
+            "stadium": "Elías Aguirre",
+            "capacity": "24,500",
+            "city": "Chiclayo"
+        },
+        {
+            "stadium": "Max Augustín",
+            "capacity": "24,000",
+            "city": "Iquitos"
+        },
+        {
+            "stadium": "Huancayo",
+            "capacity": "20,000",
+            "city": "Matucana"
+        },
+        {
+            "stadium": "Mariano Melgar",
+            "capacity": "20,000",
+            "city": "Callao"
+        },
+        {
+            "stadium": "Heraclio Tapia",
+            "capacity": "20,000",
+            "city": "Huánuco"
+        },
+        {
+            "stadium": "Enrique Torres Belón",
+            "capacity": "20,000",
+            "city": "Puno"
+        },
+        {
+            "stadium": "Jorge Basadre",
+            "capacity": "20,000",
+            "city": "Tacna"
+        },
+        {
+            "stadium": "Héroes de San Ramón",
+            "capacity": "18,000",
+            "city": "Cajamarca"
+        },
+        {
+            "stadium": "Ciudad de Cumaná",
+            "capacity": "17,000",
+            "city": "Ica"
+        },
+        {
+            "stadium": "Miguel Grau",
+            "capacity": "15,000",
+            "city": "Callao"
+        },
+        {
+            "stadium": "Carlos Vidaurre García",
+            "capacity": "15,000",
+            "city": "Tarapoto"
+        },
+        {
+            "stadium": "Estadio Municipal de Chorrillos",
+            "capacity": "13,000",
+            "city": "Lima"
+        },
+        {
+            "stadium": "Juan Maldonado Gamarra",
+            "capacity": "13,000",
+            "city": "Cutervo"
+        },
+        {
+            "stadium": "Estadio Municipal de Espinar",
+            "capacity": "12,000",
+            "city": "Yauri"
+        },
+        {
+            "stadium": "Estadio Alberto Gallardo",
+            "capacity": "11,600",
+            "city": "Lima"
+        },
+        {
+            "stadium": "Estadio Los Chankas",
+            "capacity": "10,000",
+            "city": "Andahuaylas"
+        },
+        {
+            "stadium": "Iván Elías Moreno",
+            "capacity": "10,000",
+            "city": "Lima"
+        },
+        {
+            "stadium": "Estadio Unión Tarma",
+            "capacity": "9,000",
+            "city": "Tarma"
+        },
+        {
+            "stadium": "Campeones del 36",
+            "capacity": "8,000",
+            "city": "Sullana"
+        },
+        {
+            "stadium": "Rómulo Shaw Cisneros",
+            "capacity": "8,000",
+            "city": "Chancay"
+        },
+        {
+            "stadium": "Jose Picasso Peratta",
+            "capacity": "8,000",
+            "city": "Vista Alegre"
+        },
+        {
+            "stadium": "Rosas Pampa",
+            "capacity": "8,000",
+            "city": "Huaraz"
+        },
+        {
+            "stadium": "Estadio Campeonísimo",
+            "capacity": "8,000",
+            "city": "Talara"
+        }
+    ],
+    "Mexico": [
+        {
+            "stadium": "Estadio Azteca",
+            "capacity": "87,523",
+            "city": "Mexico City"
+        },
+        {
+            "stadium": "Olimpico Universitario",
+            "capacity": "66,000",
+            "city": "Mexico City"
+        },
+        {
+            "stadium": "Jalisco",
+            "capacity": "62,384",
+            "city": "Guadalajara"
+        },
+        {
+            "stadium": "Estadio BBVA Bancomer",
+            "capacity": "52,237",
+            "city": "Guadalupe"
+        },
+        {
+            "stadium": "Akron",
+            "capacity": "49,850",
+            "city": "Zapopan"
+        },
+        {
+            "stadium": "La Corregidora",
+            "capacity": "45,575",
+            "city": "Santiago de Queretaro"
+        },
+        {
+            "stadium": "Cuauhtemoc",
+            "capacity": "45,396",
+            "city": "Puebla"
+        },
+        {
+            "stadium": "Universitario",
+            "capacity": "43,257",
+            "city": "San Nicolás"
+        },
+        {
+            "stadium": "Estadio Morelos Morelia",
+            "capacity": "41,500",
+            "city": "Morelia"
+        },
+        {
+            "stadium": "Ciudad de los Deportes",
+            "capacity": "36,681",
+            "city": "Mexico City"
+        },
+        {
+            "stadium": "Estadio León (Nou Camp)",
+            "capacity": "33,943",
+            "city": "LEÓN"
+        },
+        {
+            "stadium": "Caliente",
+            "capacity": "33,333",
+            "city": "Tijuana"
+        },
+        {
+            "stadium": "Sergio León Chávez",
+            "capacity": "33,000",
+            "city": "Irapuato"
+        },
+        {
+            "stadium": "Luis de la Fuente",
+            "capacity": "33,000",
+            "city": "Veracruz"
+        },
+        {
+            "stadium": "Alfonso Lastras",
+            "capacity": "32,100",
+            "city": "San Luis Potosí"
+        },
+        {
+            "stadium": "Tres de Marzo",
+            "capacity": "32,000",
+            "city": "Zapopan"
+        },
+        {
+            "stadium": "Estadio Universitario Alberto 'Chivo' Cór",
+            "capacity": "32,000",
+            "city": "Toluca"
+        },
+        {
+            "stadium": "Estadio Corona",
+            "capacity": "30,000",
+            "city": "Torreón"
+        },
+        {
+            "stadium": "Estadio Hidalgo",
+            "capacity": "30,000",
+            "city": "Pachuca"
+        },
+        {
+            "stadium": "Neza 86",
+            "capacity": "28,500",
+            "city": "Ciudad Nezahualcóyotl"
+        },
+        {
+            "stadium": "Victor Manuel Reyna",
+            "capacity": "27,500",
+            "city": "Tuxtla Gutiérrez"
+        },
+        {
+            "stadium": "Estadio Victoria Aguascalientes",
+            "capacity": "27,500",
+            "city": "Aguascalientes"
+        },
+        {
+            "stadium": "Nemesio Diez",
+            "capacity": "27,000",
+            "city": "Toluca"
+        },
+        {
+            "stadium": "Estadio de Mazatlán",
+            "capacity": "25,000",
+            "city": "Mazatlán"
+        },
+        {
+            "stadium": "Estadio Banorte",
+            "capacity": "23,100",
+            "city": "Culiacán"
+        },
+        {
+            "stadium": "Estadio Centenario LM",
+            "capacity": "23,000",
+            "city": "Les Mochis"
+        },
+        {
+            "stadium": "Benito Juárez",
+            "capacity": "22,300",
+            "city": "Juárez"
+        },
+        {
+            "stadium": "Estadio Héroe de Nacozari",
+            "capacity": "22,000",
+            "city": "Hermosillo"
+        },
+        {
+            "stadium": "Estadio El Hogar",
+            "capacity": "22,000",
+            "city": "Tamaulipas"
+        },
+        {
+            "stadium": "Andres Quintana Roo",
+            "capacity": "22,000",
+            "city": "Cancún"
+        },
+        {
+            "stadium": "Unidad Deportiva Solidaridad",
+            "capacity": "20,000",
+            "city": "Reynosa"
+        },
+        {
+            "stadium": "Marte R. Gomez",
+            "capacity": "19,500",
+            "city": "Ciudad Victoria"
+        },
+        {
+            "stadium": "Miguel Alemán",
+            "capacity": "18,000",
+            "city": "Celaya"
+        },
+        {
+            "stadium": "Mariano Matamoros",
+            "capacity": "18,000",
+            "city": "Xochitepec"
+        },
+        {
+            "stadium": "Estadio Francisco Zarco",
+            "capacity": "18,000",
+            "city": "Durango"
+        },
+        {
+            "stadium": "Francisco Villa",
+            "capacity": "18,000",
+            "city": "Zacatecas"
+        },
+        {
+            "stadium": "Carlos Iturralde",
+            "capacity": "18,000",
+            "city": "Mérida"
+        }
+    ],
+    "Cuba": [
+        {
+            "stadium": "Estadio Rogelio Palacios",
+            "capacity": "5,000",
+            "city": "Guantánamo"
+        },
+        {
+            "stadium": "Estadio Patricio Lumumba",
+            "capacity": "5,000",
+            "city": "Camagüey"
+        }
+    ]
+}
